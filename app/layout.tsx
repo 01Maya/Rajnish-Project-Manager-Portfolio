@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Rajnish Patel | Project Manager Portfolio",
   description:
-    "Portfolio of Rajnish Patel, a Project Manager specializing in project coordination, team leadership, and execution at ANABEEB.",
+    "Portfolio of Rajnish Patel, a Project Manager specializing in project coordination, team leadership, and execution at ANABEEB.✨",
 }
 
 export default function RootLayout({
