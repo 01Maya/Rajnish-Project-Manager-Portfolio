@@ -1,7 +1,7 @@
 
 ---
 
-# Rajnish Patel – Project Manager Portfolio
+# Rajnish Patel – Project Manager Portfolio ✨
 
 ## Overview
 A premium professional portfolio showcasing the experience, leadership, and technical expertise of a Shutdown & Turnaround Project Manager.
