@@ -11,7 +11,7 @@ This portfolio highlights over a decade of industrial project management experie
 It presents key projects, skills, certifications, and career milestones in a clean, executive-grade design.  
 Built with modern web technologies, the site delivers smooth animations, strong visual hierarchy, and an industry-focused user experience.
 
-## Features
+## Features 💎
 - Fully responsive design for all screen sizes  
 - Smooth animations and transitions using Framer Motion  
 - Section-based navigation with scroll-to-section effects  
