@@ -18,7 +18,7 @@ Built with modern web technologies, the site delivers smooth animations, strong 
 - Interactive hover effects for cards and buttons  
 - Countdown timer for dynamic engagement  
 
-## Sections
+## Sections 🗂️
 - **Hero**: Introduces Rajnish Patel with role, summary, and call-to-action.  
 - **About**: Provides a concise professional background and leadership focus.  
 - **Experience**: Displays detailed industrial and shutdown project experience.  
