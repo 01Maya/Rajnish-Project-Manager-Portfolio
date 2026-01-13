@@ -33,7 +33,7 @@ Built with modern web technologies, the site delivers smooth animations, strong 
 - **Framer Motion** – Animations and smooth UI transitions  
 - **shadcn/ui** – Accessible and reusable UI components  
 
-## Live Preview
+## Live Preview 🔍
 https://rajnishp-projectmanager.vercel.app/
 
 ## Screenshots
