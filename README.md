@@ -39,7 +39,7 @@ https://rajnishp-projectmanager.vercel.app/
 ## Screenshots 📸
 Add screenshots of the homepage, experience section, and projects section here.
 
-## Installation & Setup
+## Installation & Setup ⚙️
 
 ```bash
 # Clone the repository
