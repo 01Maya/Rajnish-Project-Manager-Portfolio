@@ -59,6 +59,6 @@ Open `http://localhost:3000` in your browser to view the project locally.
 
 ---
 
-© Rajnish Patel — Engineered for Reliable Shutdown Excellence
+© Rajnish Patel — Engineered for Reliable Shutdown Excellence 👔
 
 
