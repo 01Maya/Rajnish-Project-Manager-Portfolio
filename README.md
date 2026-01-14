@@ -27,7 +27,7 @@ Built with modern web technologies, the site delivers smooth animations, strong 
 - **Education**: Lists academic qualifications and professional foundation.  
 - **Contact**: Enables direct communication with location and availability details.  
 
-## Tech Stack
+## Tech Stack 📝
 - **Next.js** – React framework for production-ready applications  
 - **Tailwind CSS** – Utility-first styling for rapid UI development  
 - **Framer Motion** – Animations and smooth UI transitions  
