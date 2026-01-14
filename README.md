@@ -36,7 +36,7 @@ Built with modern web technologies, the site delivers smooth animations, strong 
 ## Live Preview 🔍
 https://rajnishp-projectmanager.vercel.app/
 
-## Screenshots
+## Screenshots 📸
 Add screenshots of the homepage, experience section, and projects section here.
 
 ## Installation & Setup
