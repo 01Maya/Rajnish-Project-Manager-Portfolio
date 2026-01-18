@@ -1,6 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
+import { Award } from "lucide-react"
 
 const skillGroups = [
   {
@@ -43,15 +44,6 @@ const skillGroups = [
       "Fabrication & Welding Supervision",
     ],
   },
-]
-
-const certificates = [
-  "Permit Receiver Training – ARAMCO, SABIC, SIPCHEM, YANSAB, SASREF, Oman LNG",
-  "Fire & Safety Training with Live Firefighting",
-  "Breathing Apparatus Training (Single & Double Line) – Mourik International, Holland",
-  "Safe Startup & Shutdown of Plant & Equipment",
-  "Blinding & De-Blinding of Lines and Gasket Replacement",
-  "Operation & Maintenance of Pumps, Compressors, Exchangers & Valves",
 ]
 
 export function Skills() {
@@ -100,7 +92,7 @@ export function Skills() {
           ))}
         </div>
 
-        {/* CERTIFICATES & TRAINING – FULL WIDTH */}
+        {/* CERTIFICATES & TRAINING */}
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -113,11 +105,37 @@ export function Skills() {
           </h3>
 
           <div className="grid md:grid-cols-2 gap-4">
-            {certificates.map((item, idx) => (
+
+            {/* PMP WITH ICON BADGE */}
+            <div className="flex items-start gap-4">
+              <span className="text-industrial-blue text-lg leading-none mt-1">✓</span>
+
+              <div className="flex items-center gap-3 flex-wrap">
+                <p className="text-secondary text-sm leading-relaxed font-medium">
+                  Project Management Professional – Project Management Institute (PMI)
+                </p>
+
+                <a
+                  href="/PMI Certification.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title="View PMP Certificate"
+                  className="inline-flex items-center justify-center w-7 h-7 rounded-full bg-industrial-blue text-white hover:scale-105 transition-transform"
+                >
+                🏆 <Award className="w-4 h-4" />
+                </a>
+              </div>
+            </div>
+
+            {[
+              "Permit Receiver Training – ARAMCO, SABIC, SIPCHEM, YANSAB, SASREF, Oman LNG",
+              "Fire & Safety with Live Firefighting and Safe Startup & Shutdown of Plant & Equipment",
+              "Breathing Apparatus Training (Single & Double Line) – Mourik International, Holland",
+              "Blinding & De-Blinding of Lines and Gasket Replacement",
+              "Operation & Maintenance of Pumps, Compressors, Exchangers & Valves",
+            ].map((item, idx) => (
               <div key={idx} className="flex items-start gap-4">
-                <span className="text-industrial-blue text-lg leading-none mt-1">
-                  ✓
-                </span>
+                <span className="text-industrial-blue text-lg leading-none mt-1">✓</span>
                 <p className="text-secondary text-sm leading-relaxed font-medium">
                   {item}
                 </p>
