@@ -6,7 +6,7 @@
 ## Overview
 A premium professional portfolio showcasing the experience, leadership, and technical expertise of a Shutdown & Turnaround Project Manager.
 
-## Description
+## Description 📄
 This portfolio highlights over a decade of industrial project management experience across oil & gas and petrochemical sectors.  
 It presents key projects, skills, certifications, and career milestones in a clean, executive-grade design.  
 Built with modern web technologies, the site delivers smooth animations, strong visual hierarchy, and an industry-focused user experience.
